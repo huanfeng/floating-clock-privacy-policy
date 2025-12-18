@@ -50,7 +50,7 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-* **Email:** [fengsoft1@gmail.com]
+* **Email:** fengsoft1@gmail.com
 
 ---
 
@@ -102,4 +102,4 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 
 如果您对本隐私权政策有任何疑问或建议，请随时通过以下方式联系我们：
 
-* **电子邮件：** [fengsoft1@gmail.com]
+* **电子邮件：** fengsoft1@gmail.com
